@@ -1,0 +1,8 @@
+name: CholicubHubManager
+version: 1.0
+main: me.shyybi.cholicubhubmanager.Main
+description: A description of your plugin
+author: Shyybi
+commands:
+  hub:
+    description: Teleport to the hub

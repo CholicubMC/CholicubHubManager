@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="CholicubHubManager">
+    <output-path>$PROJECT_DIR$/out/artifacts/CholicubHubManager</output-path>
+    <root id="archive" name="CholicubHubManager.jar">
+      <element id="module-output" name="CholicubHubManager" />
+      <element id="library" level="project" name="server" />
+    </root>
+  </artifact>
+</component>
